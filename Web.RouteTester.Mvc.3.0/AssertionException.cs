@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Web.RouteTester.Mvc._3._0
+namespace Quintsys.Web.RouteTester.Mvc._3._0
 {
     [Serializable]
     public class AssertionException : Exception

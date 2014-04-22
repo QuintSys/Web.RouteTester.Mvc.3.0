@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web;
 using Moq;
 
-namespace Web.RouteTester.Mvc._3._0
+namespace Quintsys.Web.RouteTester.Mvc._3._0
 {
     internal static class TestUtility
     {
