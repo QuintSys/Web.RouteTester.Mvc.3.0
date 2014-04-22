@@ -3,7 +3,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Web.RouteTester.Mvc._3._0
+namespace Quintsys.Web.RouteTester.Mvc._3._0
 {
     public class RouteInfo
     {
